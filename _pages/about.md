@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-<font size="10">自定义字体大小</font>
+<font size="50">自定义字体大小</font>
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
